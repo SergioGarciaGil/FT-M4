@@ -11,7 +11,7 @@ __SQLite__ es una implementación de una base de datos relacional hecha en _C_. 
 ### Configurar SQLite
 
 Una vez que tenemos instalado el programa, tenemos que configurar algunas simples opciones.
-Con un editor de texto, abrí (o creá si no existe) el archivo `.sqliterc`.
+Con un editor de texto, abrí (o creá si no existe) el archivo`.
 
 > Para [windows](http://stackoverflow.com/questions/19147547/change-sqlite-default-settings-in-windows)
 
