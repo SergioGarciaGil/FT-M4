@@ -29,3 +29,4 @@ db.sync({ force }).then(function () {
     });
   });
 });
+//ok
